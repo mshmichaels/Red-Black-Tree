@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CheckStyle-IDEA" serialisationVersion="2">
+    <checkstyleVersion>8.41.1</checkstyleVersion>
+    <scanScope>Everything</scanScope>
+    <option name="thirdPartyClasspath" />
+    <option name="activeLocationIds" />
+    <option name="locations">
+      <list>
+        <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="9d9f3e41-d398-4f4a-9ae8-9781a5480dc9" type="LOCAL_FILE" scope="All" description="CS5004">/Applications/IntelliJ Program Files/CS5004_Checkstyle/cs5004-checkstyle-edited-google-checks.xml</ConfigurationLocation>
+      </list>
+    </option>
+  </component>
+</project>
